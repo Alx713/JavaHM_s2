@@ -1,0 +1,2 @@
+апр. 04, 2023 6:37:11 PM homework WriteAnswerToFile
+INFO: Файл записан
